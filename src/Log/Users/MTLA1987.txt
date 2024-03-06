@@ -1,0 +1,19 @@
+2024-02-14 09:28:24 pm  login attempt
+2024-02-14 09:28:24 pm  Admin Login successful
+2024-02-14 09:28:28 pm attempting to bookAppointment
+2024-02-14 09:28:41 pm bookAppointment | patientID: MTLP1212 appointmentID: SHEM090624 appointmentType: Surgeon  | Success: Appointment SHEM090624 Booked Successfully
+2024-02-14 09:28:47 pm attempting to cancelAppointment
+2024-02-14 09:28:53 pm cancelAppointment | patientID: MTLP1212 appointmentID: SHEM090624 appointmentType: Surgeon  | Success: Appointment SHEM090624 Canceled for MTLP1212
+2024-02-14 09:28:59 pm attempting to getBookingSchedule
+2024-02-14 09:29:02 pm getBookingSchedule | patientID: MTLP1212  | Surgeon:
+QUEM080624 
+
+ 
+
+2024-02-14 09:29:16 pm attempting to bookAppointment
+2024-02-14 09:29:22 pm bookAppointment | patientID: MTLP1212 appointmentID: SHEM090624 appointmentType: Surgeon  | Success: Appointment SHEM090624 Booked Successfully
+2024-02-14 09:29:40 pm attempting to getBookingSchedule
+2024-02-14 09:29:43 pm getBookingSchedule | patientID: MTLP1313  | Booking Schedule Empty For MTLP1313
+2024-02-14 09:29:51 pm attempting to cancelAppointment
+2024-02-14 09:30:03 pm cancelAppointment | patientID: MTLP1212 appointmentID: QUEM080624 appointmentType: Dental  | Success: Appointment QUEM080624 Canceled for MTLP1212
+2024-02-14 09:30:15 pm attempting to cancelAppointment

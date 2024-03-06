@@ -1,0 +1,463 @@
+2024-02-10 01:58:01 pm  Server is Up & Running
+2024-02-10 01:58:01 pm  UDP Server Started at port 2222
+2024-02-10 02:18:09 pm  Server is Up & Running
+2024-02-10 02:18:09 pm  UDP Server Started at port 2222
+2024-02-10 04:46:10 pm  Server is Up & Running
+2024-02-10 04:46:10 pm  UDP Server Started at port 2222
+2024-02-10 05:09:25 pm  Server is Ready...
+2024-02-10 05:09:25 pm  UDP Server Started at port 2222
+2024-02-10 05:20:37 pm  Server is Ready...
+2024-02-10 05:20:37 pm  UDP Server Started at port 2222
+2024-02-10 05:35:10 pm  Server is Ready...
+2024-02-10 05:35:10 pm  UDP Server Started at port 2222
+2024-02-10 11:23:01 pm  Server is Ready...
+2024-02-10 11:23:01 pm  UDP Server Started at port 2222
+2024-02-10 11:33:41 pm null |  UDP reply sent listEventAvailability  |  appointmentID: null appointmentType: MTLA2345  | 
+2024-02-10 11:39:02 pm null |  UDP reply sent listEventAvailability  |  appointmentID: null appointmentType: MTLA2345  | 
+2024-02-10 11:50:07 pm  Server is Ready...
+2024-02-10 11:50:07 pm  UDP Server Started at port 2222
+2024-02-10 11:53:46 pm  Server is Ready...
+2024-02-10 11:53:46 pm  UDP Server Started at port 2222
+2024-02-10 11:55:20 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: MTLA2345  | 
+2024-02-10 11:56:37 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEA101024 appointmentType: Dental  | 
+2024-02-11 12:12:58 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEA101024 appointmentType: Dental  | 
+2024-02-11 03:36:30 pm  Server is Ready...
+2024-02-11 03:36:30 pm  UDP Server Started at port 2222
+2024-02-11 07:01:00 pm  Server is Ready...
+2024-02-11 07:01:00 pm  UDP Server Started at port 2222
+2024-02-11 07:24:28 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: MTLA2345  | 
+2024-02-11 10:04:47 pm  Server is Ready...
+2024-02-11 10:04:47 pm  UDP Server Started at port 2222
+2024-02-11 10:06:38 pm  Server is Ready...
+2024-02-11 10:06:38 pm  UDP Server Started at port 2222
+2024-02-12 12:34:23 am  Server is Ready...
+2024-02-12 12:34:23 am  UDP Server Started at port 2222
+2024-02-12 12:45:29 am  Server is Ready...
+2024-02-12 12:45:29 am  UDP Server Started at port 2222
+2024-02-12 12:47:23 am MTLP1234 |  UDP reply sent bookAppointment  |  appointmentID: QUEA101024 appointmentType: Dental  | 
+2024-02-12 12:49:59 am  Server is Ready...
+2024-02-12 12:49:59 am  UDP Server Started at port 2222
+2024-02-12 12:56:37 am  Server is Ready...
+2024-02-12 12:56:37 am  UDP Server Started at port 2222
+2024-02-12 01:00:25 am  Server is Ready...
+2024-02-12 01:00:25 am  UDP Server Started at port 2222
+2024-02-12 01:05:23 am  Server is Ready...
+2024-02-12 01:05:23 am  UDP Server Started at port 2222
+2024-02-12 01:12:14 am  Server is Ready...
+2024-02-12 01:12:14 am  UDP Server Started at port 2222
+2024-02-12 01:13:57 am  Server is Ready...
+2024-02-12 01:13:57 am  UDP Server Started at port 2222
+2024-02-12 01:16:33 am  Server is Ready...
+2024-02-12 01:16:33 am  UDP Server Started at port 2222
+2024-02-12 01:18:06 am  Server is Ready...
+2024-02-12 01:18:06 am  UDP Server Started at port 2222
+2024-02-12 01:21:31 am  Server is Ready...
+2024-02-12 01:21:31 am  UDP Server Started at port 2222
+2024-02-12 01:21:55 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEA101024 appointmentType: Dental  | 
+2024-02-12 01:23:41 am  Server is Ready...
+2024-02-12 01:23:41 am  UDP Server Started at port 2222
+2024-02-12 01:25:52 am  Server is Ready...
+2024-02-12 01:25:52 am  UDP Server Started at port 2222
+2024-02-12 01:35:38 am  Server is Ready...
+2024-02-12 01:35:38 am  UDP Server Started at port 2222
+2024-02-12 01:40:28 am  Server is Ready...
+2024-02-12 01:40:28 am  UDP Server Started at port 2222
+2024-02-12 02:03:11 am  Server is Ready...
+2024-02-12 02:03:11 am  UDP Server Started at port 2222
+2024-02-12 02:04:36 am  Server is Ready...
+2024-02-12 02:04:36 am  UDP Server Started at port 2222
+2024-02-12 02:04:57 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEA101024 appointmentType: Dental  | 
+2024-02-12 02:12:01 am  Server is Ready...
+2024-02-12 02:12:01 am  UDP Server Started at port 2222
+2024-02-12 02:13:43 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEA101024 appointmentType: Dental  | Failed: An error occurred while processing the appointment booking.;
+2024-02-12 02:46:01 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEA101024 appointmentType: Dental  | Failed: An error occurred while processing the appointment booking.;
+2024-02-12 03:46:51 am  Server is Ready...
+2024-02-12 03:46:51 am  UDP Server Started at port 2222
+2024-02-12 03:49:16 am  Server is Ready...
+2024-02-12 03:49:16 am  UDP Server Started at port 2222
+2024-02-12 11:42:44 am  Server is Ready...
+2024-02-12 11:42:44 am  UDP Server Started at port 2222
+2024-02-12 11:43:29 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEA101024 appointmentType: Dental  | Failed: An error occurred while processing the appointment booking.;
+2024-02-12 11:46:28 am  Server is Ready...
+2024-02-12 11:46:28 am  UDP Server Started at port 2222
+2024-02-12 11:46:51 am MTLP2345 |  UDP request sent bookAppointment  |  AppointmentID: QUEA101024 AppointmentType: Dental  |  ... 
+2024-02-12 11:57:17 am  Server is Ready...
+2024-02-12 11:57:17 am  UDP Server Started at port 2222
+2024-02-12 12:08:35 pm MTLP1010 |  UDP reply sent bookAppointment  |  appointmentID: QUEM090624 appointmentType: Physician  | Failed: An error occurred while processing the appointment booking.;
+2024-02-12 01:08:20 pm  Server is Ready...
+2024-02-12 01:08:20 pm  UDP Server Started at port 2222
+2024-02-12 01:35:22 pm  Server is Ready...
+2024-02-12 01:35:22 pm  UDP Server Started at port 2222
+2024-02-12 01:59:26 pm  Server is Ready...
+2024-02-12 01:59:26 pm  UDP Server Started at port 2222
+2024-02-12 04:21:51 pm  Server is Ready...
+2024-02-12 04:21:51 pm  UDP Server Started at port 2222
+2024-02-12 04:24:12 pm  Server is Ready...
+2024-02-12 04:24:12 pm  UDP Server Started at port 2222
+2024-02-12 05:14:26 pm  Server is Ready...
+2024-02-12 05:14:26 pm  UDP Server Started at port 2222
+2024-02-12 05:35:28 pm  Server is Ready...
+2024-02-12 05:35:28 pm  UDP Server Started at port 2222
+2024-02-12 05:56:28 pm  Server is Ready...
+2024-02-12 05:56:28 pm  UDP Server Started at port 2222
+2024-02-12 05:57:33 pm  Server is Ready...
+2024-02-12 05:57:33 pm  UDP Server Started at port 2222
+2024-02-12 06:02:37 pm  Server is Ready...
+2024-02-12 06:02:37 pm  UDP Server Started at port 2222
+2024-02-12 06:16:17 pm  Server is Ready...
+2024-02-12 06:16:17 pm  UDP Server Started at port 2222
+2024-02-12 06:19:08 pm  Server is Ready...
+2024-02-12 06:19:08 pm  UDP Server Started at port 2222
+2024-02-12 06:21:24 pm  Server is Ready...
+2024-02-12 06:21:24 pm  UDP Server Started at port 2222
+2024-02-12 06:25:58 pm  Server is Ready...
+2024-02-12 06:25:58 pm  UDP Server Started at port 2222
+2024-02-12 06:30:09 pm  Server is Ready...
+2024-02-12 06:30:09 pm  UDP Server Started at port 2222
+2024-02-12 06:34:51 pm  Server is Ready...
+2024-02-12 06:34:51 pm  UDP Server Started at port 2222
+2024-02-12 06:36:21 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | QUEBEC Server Physician:
+No Appointments of Type Physician
+****************************
+;
+2024-02-12 06:49:51 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | QUEBEC Server Physician:
+No Appointments of Type Physician
+****************************
+;
+2024-02-12 06:51:40 pm  Server is Ready...
+2024-02-12 06:51:40 pm  UDP Server Started at port 2222
+2024-02-12 06:51:48 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | QUEBEC Server Physician:
+No Appointments of Type Physician
+___________________________
+;
+2024-02-12 06:53:09 pm  Server is Ready...
+2024-02-12 06:53:09 pm  UDP Server Started at port 2222
+2024-02-12 06:53:21 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | QUEBEC Server Physician:
+No Appointments of Type Physician
+___________________________
+;
+2024-02-12 06:54:12 pm  Server is Ready...
+2024-02-12 06:54:12 pm  UDP Server Started at port 2222
+2024-02-12 06:54:25 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | QUEBEC Server Physician:
+No Appointments of Type Physician
+___________________________
+;
+2024-02-12 06:58:53 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEM090624 appointmentType: Physician  | Failed: An error occurred while processing the appointment booking.;
+2024-02-12 07:00:50 pm  Server is Ready...
+2024-02-12 07:00:50 pm  UDP Server Started at port 2222
+2024-02-12 07:02:19 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEM090624 appointmentType: Physician  | Failed: An error occurred while processing the appointment booking.;
+2024-02-12 07:02:45 pm  Server is Ready...
+2024-02-12 07:02:45 pm  UDP Server Started at port 2222
+2024-02-12 07:04:33 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEA151124 appointmentType: Dental  | Success: Appointment QUEA151124 Booked Successfully;
+2024-02-12 07:07:20 pm  Server is Ready...
+2024-02-12 07:07:20 pm  UDP Server Started at port 2222
+2024-02-12 07:08:05 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Booked Successfully;
+2024-02-12 07:08:16 pm MTLP2345 |  RMI cancelAppointment  |  AppointmentID: QUEM100624 AppointmentType: Physician  | Success: Appointment QUEM100624 Canceled for MTLP2345
+2024-02-12 07:08:16 pm MTLP2345 |  UDP reply sent cancelAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Canceled for MTLP2345;
+2024-02-12 07:08:30 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Failed: Appointment QUEM100624 Already Booked;
+2024-02-12 07:10:29 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Failed: Appointment QUEM100624 Already Booked;
+2024-02-12 07:12:49 pm  Server is Ready...
+2024-02-12 07:12:49 pm  UDP Server Started at port 2222
+2024-02-12 07:13:12 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Booked Successfully;
+2024-02-12 07:13:24 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEM090624 appointmentType: Physician  | Success: Appointment QUEM090624 Booked Successfully;
+2024-02-12 07:14:50 pm  Server is Ready...
+2024-02-12 07:14:50 pm  UDP Server Started at port 2222
+2024-02-12 07:20:22 pm  Server is Ready...
+2024-02-12 07:20:22 pm  UDP Server Started at port 2222
+2024-02-12 07:23:06 pm  Server is Ready...
+2024-02-12 07:23:06 pm  UDP Server Started at port 2222
+2024-02-12 07:24:59 pm  Server is Ready...
+2024-02-12 07:24:59 pm  UDP Server Started at port 2222
+2024-02-12 07:25:32 pm  Server is Ready...
+2024-02-12 07:25:32 pm  UDP Server Started at port 2222
+2024-02-12 07:27:12 pm  Server is Ready...
+2024-02-12 07:27:12 pm  UDP Server Started at port 2222
+2024-02-12 07:27:45 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Booked Successfully;
+2024-02-12 07:27:55 pm MTLP2345 |  RMI cancelAppointment  |  AppointmentID: QUEM100624 AppointmentType: Physician  | Success: Appointment QUEM100624 Canceled for MTLP2345
+2024-02-12 07:27:55 pm MTLP2345 |  UDP reply sent cancelAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Canceled for MTLP2345;
+2024-02-12 07:28:09 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Failed: Appointment QUEM100624 Already Booked;
+2024-02-12 07:28:36 pm  Server is Ready...
+2024-02-12 07:28:36 pm  UDP Server Started at port 2222
+2024-02-12 07:29:09 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Booked Successfully;
+2024-02-13 01:07:36 am  Server is Ready...
+2024-02-13 01:07:36 am  UDP Server Started at port 2222
+2024-02-13 01:07:55 am  Server is Ready...
+2024-02-13 01:07:55 am  UDP Server Started at port 2222
+2024-02-13 01:27:11 am null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | QUEBEC Server Physician:
+QUEM090624: in the MORNING of 09/06/2424 Total Available Capacity: 5 out of 5
+QUEM100624: in the MORNING of 10/06/2424 Total Available Capacity: 5 out of 5
+
+___________________________
+;
+2024-02-13 01:35:15 am  Server is Ready...
+2024-02-13 01:35:15 am  UDP Server Started at port 2222
+2024-02-13 02:13:31 am  Server is Ready...
+2024-02-13 02:13:31 am  UDP Server Started at port 2222
+2024-02-13 02:20:49 am  Server is Ready...
+2024-02-13 02:20:49 am  UDP Server Started at port 2222
+2024-02-13 02:21:47 am  Server is Ready...
+2024-02-13 02:21:47 am  UDP Server Started at port 2222
+2024-02-13 02:26:14 am  Server is Ready...
+2024-02-13 02:26:14 am  UDP Server Started at port 2222
+2024-02-13 02:36:27 am  Server is Ready...
+2024-02-13 02:36:27 am  UDP Server Started at port 2222
+2024-02-13 02:37:19 am  Server is Ready...
+2024-02-13 02:37:19 am  UDP Server Started at port 2222
+2024-02-13 02:37:51 am  Server is Ready...
+2024-02-13 02:37:51 am  UDP Server Started at port 2222
+2024-02-13 02:44:09 am  Server is Ready...
+2024-02-13 02:44:09 am  UDP Server Started at port 2222
+2024-02-13 03:21:01 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEM080624 appointmentType: Surgeon  | Success: Appointment QUEM080624 Booked Successfully;
+2024-02-13 03:21:33 am MTLP2345 |  RMI cancelAppointment  |  AppointmentID: QUEM080624 AppointmentType: Surgeon  | Success: Appointment QUEM080624 Canceled for MTLP2345
+2024-02-13 03:21:33 am MTLP2345 |  UDP reply sent cancelAppointment  |  appointmentID: QUEM080624 appointmentType: Surgeon  | Success: Appointment QUEM080624 Canceled for MTLP2345;
+2024-02-13 03:23:18 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Booked Successfully;
+2024-02-13 03:23:31 am MTLP2345 |  RMI cancelAppointment  |  AppointmentID: QUEM100624 AppointmentType: Physician  | Success: Appointment QUEM100624 Canceled for MTLP2345
+2024-02-13 03:23:31 am MTLP2345 |  UDP reply sent cancelAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Canceled for MTLP2345;
+2024-02-13 03:26:20 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Failed: Appointment QUEM100624 Already Booked;
+2024-02-13 03:26:33 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEM090624 appointmentType: Physician  | Success: Appointment QUEM090624 Booked Successfully;
+2024-02-13 03:27:53 am  Server is Ready...
+2024-02-13 03:27:53 am  UDP Server Started at port 2222
+2024-02-13 03:30:29 am  Server is Ready...
+2024-02-13 03:30:29 am  UDP Server Started at port 2222
+2024-02-13 03:31:32 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Booked Successfully;
+2024-02-13 03:31:37 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Failed: Appointment QUEM100624 Already Booked;
+2024-02-13 03:32:02 am  Server is Ready...
+2024-02-13 03:32:02 am  UDP Server Started at port 2222
+2024-02-13 03:33:58 am  Server is Ready...
+2024-02-13 03:33:58 am  UDP Server Started at port 2222
+2024-02-13 03:36:09 am MTLP1080 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Booked Successfully;
+2024-02-13 03:36:31 am MTLP1080 |  UDP reply sent bookAppointment  |  appointmentID: QUEM080624 appointmentType: Surgeon  | Success: Appointment QUEM080624 Booked Successfully;
+2024-02-13 03:37:49 am  Server is Ready...
+2024-02-13 03:37:49 am  UDP Server Started at port 2222
+2024-02-13 03:39:03 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEM080624 appointmentType: Dental  | Success: Appointment QUEM080624 Booked Successfully;
+2024-02-13 03:40:01 pm  Server is Ready...
+2024-02-13 03:40:01 pm  UDP Server Started at port 2222
+2024-02-13 03:46:13 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEM080624 appointmentType: Dental  | Success: Appointment QUEM080624 Booked Successfully;
+2024-02-13 03:46:25 pm MTLP2345 |  RMI cancelAppointment  |  AppointmentID: QUEM080624 AppointmentType: Dental  | Success: Appointment QUEM080624 Canceled for MTLP2345
+2024-02-13 03:46:25 pm MTLP2345 |  UDP reply sent cancelAppointment  |  appointmentID: QUEM080624 appointmentType: Dental  | Success: Appointment QUEM080624 Canceled for MTLP2345;
+2024-02-13 03:46:56 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | QUEBEC Server Physician:
+QUEM090624: in the MORNING of 09/06/2424 Total Available Capacity: 5 out of 5
+QUEM100624: in the MORNING of 10/06/2424 Total Available Capacity: 5 out of 5
+
+___________________________
+;
+2024-02-13 03:47:31 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Booked Successfully;
+2024-02-13 03:48:20 pm MTLP1234 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Booked Successfully;
+2024-02-13 03:49:59 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | QUEBEC Server Physician:
+QUEM090624: in the MORNING of 09/06/2424 Total Available Capacity: 5 out of 5
+QUEM100624: in the MORNING of 10/06/2424 Total Available Capacity: 5 out of 3
+
+___________________________
+;
+2024-02-13 03:51:39 pm  Server is Ready...
+2024-02-13 03:51:39 pm  UDP Server Started at port 2222
+2024-02-13 04:04:05 pm MTLP0000 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Booked Successfully;
+2024-02-13 04:04:17 pm MTLP0000 |  RMI cancelAppointment  |  AppointmentID: QUEM100624 AppointmentType: Physician  | Success: Appointment QUEM100624 Canceled for MTLP0000
+2024-02-13 04:04:17 pm MTLP0000 |  UDP reply sent cancelAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Canceled for MTLP0000;
+2024-02-13 04:04:28 pm MTLP0000 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Failed: Appointment QUEM100624 Already Booked;
+2024-02-13 04:37:52 pm  Server is Ready...
+2024-02-13 04:37:52 pm  UDP Server Started at port 2222
+2024-02-13 04:41:13 pm  Server is Ready...
+2024-02-13 04:41:13 pm  UDP Server Started at port 2222
+2024-02-13 04:42:51 pm  Server is Ready...
+2024-02-13 04:42:51 pm  UDP Server Started at port 2222
+2024-02-13 04:43:57 pm  Server is Ready...
+2024-02-13 04:43:57 pm  UDP Server Started at port 2222
+2024-02-13 04:45:49 pm  Server is Ready...
+2024-02-13 04:45:49 pm  UDP Server Started at port 2222
+2024-02-13 04:46:47 pm  Server is Ready...
+2024-02-13 04:46:47 pm  UDP Server Started at port 2222
+2024-02-13 04:47:51 pm  Server is Ready...
+2024-02-13 04:47:51 pm  UDP Server Started at port 2222
+2024-02-13 11:12:35 pm  Server is Ready...
+2024-02-13 11:12:35 pm  UDP Server Started at port 2222
+2024-02-13 11:18:00 pm  Server is Ready...
+2024-02-13 11:18:00 pm  UDP Server Started at port 2222
+2024-02-13 11:18:14 pm  Server is Ready...
+2024-02-13 11:18:14 pm  UDP Server Started at port 2222
+2024-02-13 11:18:32 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | QUEBEC Server Physician:
+QUEM090624: in the MORNING of 09/06/2424 Total Available Capacity: 5 out of 5
+QUEM100624: in the MORNING of 10/06/2424 Total Available Capacity: 5 out of 5
+
+___________________________
+;
+2024-02-13 11:20:01 pm  Server is Ready...
+2024-02-13 11:20:01 pm  UDP Server Started at port 2222
+2024-02-13 11:21:43 pm  Server is Ready...
+2024-02-13 11:21:43 pm  UDP Server Started at port 2222
+2024-02-13 11:22:22 pm MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: QUEM080624 appointmentType: Physician  | Failed: An Appointment does not exist.;
+2024-02-13 11:23:08 pm  Server is Ready...
+2024-02-13 11:23:08 pm  UDP Server Started at port 2222
+2024-02-13 11:24:08 pm  Server is Ready...
+2024-02-13 11:24:08 pm  UDP Server Started at port 2222
+2024-02-13 11:27:04 pm  Server is Ready...
+2024-02-13 11:27:04 pm  UDP Server Started at port 2222
+2024-02-13 11:32:21 pm  Server is Ready...
+2024-02-13 11:32:21 pm  UDP Server Started at port 2222
+2024-02-13 11:35:56 pm  Server is Ready...
+2024-02-13 11:35:56 pm  UDP Server Started at port 2222
+2024-02-13 11:48:39 pm  Server is Ready...
+2024-02-13 11:48:39 pm  UDP Server Started at port 2222
+2024-02-13 11:48:43 pm  Server is Ready...
+2024-02-13 11:48:43 pm  UDP Server Started at port 2222
+2024-02-13 11:48:57 pm  Server is Ready...
+2024-02-13 11:48:57 pm  UDP Server Started at port 2222
+2024-02-14 12:17:49 am  Server is Ready...
+2024-02-14 12:17:49 am  UDP Server Started at port 2222
+2024-02-14 12:20:58 am  Server is Ready...
+2024-02-14 12:20:58 am  UDP Server Started at port 2222
+2024-02-14 12:21:46 am  Server is Ready...
+2024-02-14 12:21:46 am  UDP Server Started at port 2222
+2024-02-14 12:31:12 am  Server is Ready...
+2024-02-14 12:31:12 am  UDP Server Started at port 2222
+2024-02-14 12:34:13 am  Server is Ready...
+2024-02-14 12:34:13 am  UDP Server Started at port 2222
+2024-02-14 12:42:58 am  Server is Ready...
+2024-02-14 12:42:58 am  UDP Server Started at port 2222
+2024-02-14 12:43:23 am MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Booked Successfully;
+2024-02-14 12:43:33 am MTLP1212 |  RMI cancelAppointment  |  AppointmentID: QUEM100624 AppointmentType: Physician  | Success: Appointment QUEM100624 Canceled for MTLP1212
+2024-02-14 12:43:33 am MTLP1212 |  UDP reply sent cancelAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Canceled for MTLP1212;
+2024-02-14 12:43:43 am MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Failed: Appointment QUEM100624 Already Booked;
+2024-02-14 01:20:59 am  Server is Ready...
+2024-02-14 01:20:59 am  UDP Server Started at port 2222
+2024-02-14 01:21:58 am MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: QUEM090624 appointmentType: Physician  | Success: Appointment QUEM090624 Booked Successfully;
+2024-02-14 01:22:25 am MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: QUEM080624 appointmentType: Dental  | Success: Appointment QUEM080624 Booked Successfully;
+2024-02-14 01:30:10 am MTLP1212 |  RMI cancelAppointment  |  AppointmentID: QUEM080624 AppointmentType: Dental  | Success: Appointment QUEM080624 Canceled for MTLP1212
+2024-02-14 01:30:10 am MTLP1212 |  UDP reply sent cancelAppointment  |  appointmentID: QUEM080624 appointmentType: Dental  | Success: Appointment QUEM080624 Canceled for MTLP1212;
+2024-02-14 02:03:54 am  Server is Ready...
+2024-02-14 02:03:54 am  UDP Server Started at port 2222
+2024-02-14 02:06:51 am  Server is Ready...
+2024-02-14 02:06:51 am  UDP Server Started at port 2222
+2024-02-14 02:13:45 am  Server is Ready...
+2024-02-14 02:13:45 am  UDP Server Started at port 2222
+2024-02-14 02:22:48 am  Server is Ready...
+2024-02-14 02:22:48 am  UDP Server Started at port 2222
+2024-02-14 02:23:59 am  Server is Ready...
+2024-02-14 02:23:59 am  UDP Server Started at port 2222
+2024-02-14 02:24:26 am MTLP1111 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Booked Successfully;
+2024-02-14 02:24:42 am MTLP1111 |  UDP reply sent cancelEvent  |  appointmentID: QUEM100624 appointmentType: Physician  | 
+2024-02-14 02:24:59 am MTLP1111 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Failed: Appointment QUEM100624 Already Booked;
+2024-02-14 02:26:28 am  Server is Ready...
+2024-02-14 02:26:28 am  UDP Server Started at port 2222
+2024-02-14 02:26:47 am MTLP1010 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Booked Successfully;
+2024-02-14 02:26:59 am MTLP1010 |  UDP reply sent cancelEvent  |  appointmentID: QUEM100624 appointmentType: Physician  | 
+2024-02-14 02:27:06 am MTLP1010 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Failed: Appointment QUEM100624 Already Booked;
+2024-02-14 02:28:05 am  Server is Ready...
+2024-02-14 02:28:05 am  UDP Server Started at port 2222
+2024-02-14 02:28:20 am MTLP1414 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Booked Successfully;
+2024-02-14 02:28:34 am MTLP1414 |  UDP reply sent cancelEvent  |  appointmentID: QUEM100624 appointmentType: Physician  | 
+2024-02-14 02:28:38 am MTLP1414 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Failed: Appointment QUEM100624 Already Booked;
+2024-02-14 02:49:52 am  Server is Ready...
+2024-02-14 02:49:52 am  UDP Server Started at port 2222
+2024-02-14 02:52:24 am  Server is Ready...
+2024-02-14 02:52:24 am  UDP Server Started at port 2222
+2024-02-14 01:35:40 pm  Server is Ready...
+2024-02-14 01:35:40 pm  UDP Server Started at port 2222
+2024-02-14 01:36:02 pm  Server is Ready...
+2024-02-14 01:36:02 pm  UDP Server Started at port 2222
+2024-02-14 01:49:42 pm  Server is Ready...
+2024-02-14 01:49:42 pm  UDP Server Started at port 2222
+2024-02-14 01:50:11 pm MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Booked Successfully;
+2024-02-14 01:50:20 pm MTLP1212 |  RMI cancelEvent  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Event QUEM100624 Canceled for MTLP1212
+2024-02-14 01:50:20 pm MTLP1212 |  UDP reply sent cancelAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Event QUEM100624 Canceled for MTLP1212;
+2024-02-14 01:50:26 pm MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Booked Successfully;
+2024-02-14 02:04:17 pm  Server is Ready...
+2024-02-14 02:04:17 pm  UDP Server Started at port 2222
+2024-02-14 02:05:12 pm  Server is Ready...
+2024-02-14 02:05:12 pm  UDP Server Started at port 2222
+2024-02-14 02:08:45 pm  Server is Ready...
+2024-02-14 02:08:45 pm  UDP Server Started at port 2222
+2024-02-14 02:12:28 pm  Server is Ready...
+2024-02-14 02:12:28 pm  UDP Server Started at port 2222
+2024-02-14 02:21:01 pm  Server is Ready...
+2024-02-14 02:21:01 pm  UDP Server Started at port 2222
+2024-02-14 02:24:00 pm  Server is Ready...
+2024-02-14 02:24:00 pm  UDP Server Started at port 2222
+2024-02-14 02:27:54 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | QUEBEC Server Physician:
+QUEM090624: in the MORNING of 09/06/2424 Total Available Capacity: 5 out of 5
+QUEM100624: in the MORNING of 10/06/2424 Total Available Capacity: 5 out of 5
+
+___________________________
+;
+2024-02-14 02:32:35 pm  Server is Ready...
+2024-02-14 02:32:35 pm  UDP Server Started at port 2222
+2024-02-14 02:32:52 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | QUEBEC Server Physician:
+QUEM090624: in the MORNING of 09/06/2424 Total Available Capacity: 5 out of 5
+QUEM100624: in the MORNING of 10/06/2424 Total Available Capacity: 5 out of 5
+
+___________________________
+;
+2024-02-14 02:33:28 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | QUEBEC Server Physician:
+QUEM090624: in the MORNING of 09/06/2424 Total Available Capacity: 5 out of 5
+QUEM100624: in the MORNING of 10/06/2424 Total Available Capacity: 5 out of 5
+
+___________________________
+;
+2024-02-14 02:42:07 pm MTLP1312 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Booked Successfully;
+2024-02-14 02:42:11 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | QUEBEC Server Physician:
+QUEM090624: in the MORNING of 09/06/2424 Total Available Capacity: 5 out of 5
+QUEM100624: in the MORNING of 10/06/2424 Total Available Capacity: 5 out of 4
+
+___________________________
+;
+2024-02-14 02:48:08 pm  Server is Ready...
+2024-02-14 02:48:08 pm  UDP Server Started at port 2222
+2024-02-14 02:48:42 pm MTLP1606 |  UDP reply sent bookAppointment  |  appointmentID: QUEM090624 appointmentType: Physician  | Success: Appointment QUEM090624 Booked Successfully;
+2024-02-14 02:49:25 pm MTLP1606 |  RMI cancelEvent  |  appointmentID: QUEM090624 appointmentType: Physician  | Success: Event QUEM090624 Canceled for MTLP1606
+2024-02-14 02:49:25 pm MTLP1606 |  UDP reply sent cancelAppointment  |  appointmentID: QUEM090624 appointmentType: Physician  | Success: Event QUEM090624 Canceled for MTLP1606;
+2024-02-14 02:54:01 pm QUEP1606 |  RMI getBookingSchedule  | null | Booking Schedule Empty For QUEP1606
+2024-02-14 04:07:38 pm  Server is Ready...
+2024-02-14 04:07:38 pm  UDP Server Started at port 2222
+2024-02-14 04:08:01 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | QUEBEC Server Physician:
+QUEM090624: in the MORNING of 09/06/2424 Total Available Capacity: 5 out of 5
+QUEM100624: in the MORNING of 10/06/2424 Total Available Capacity: 5 out of 5
+
+___________________________
+;
+2024-02-14 04:37:15 pm  Server is Ready...
+2024-02-14 04:37:15 pm  UDP Server Started at port 2222
+2024-02-14 04:38:22 pm MTLP1087 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Booked Successfully;
+2024-02-14 04:44:09 pm MTLP1087 |  RMI cancelEvent  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Event QUEM100624 Canceled for MTLP1087
+2024-02-14 04:44:09 pm MTLP1087 |  UDP reply sent cancelAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Event QUEM100624 Canceled for MTLP1087;
+2024-02-14 04:47:39 pm MTLP1765 |  UDP reply sent bookAppointment  |  appointmentID: QUEM090624 appointmentType: Physician  | Success: Appointment QUEM090624 Booked Successfully;
+2024-02-14 04:47:47 pm MTLP1765 |  RMI cancelEvent  |  appointmentID: QUEM090624 appointmentType: Physician  | Success: Event QUEM090624 Canceled for MTLP1765
+2024-02-14 04:47:47 pm MTLP1765 |  UDP reply sent cancelAppointment  |  appointmentID: QUEM090624 appointmentType: Physician  | Success: Event QUEM090624 Canceled for MTLP1765;
+2024-02-14 04:49:56 pm MTLP1765 |  UDP reply sent bookAppointment  |  appointmentID: QUEM090624 appointmentType: Physician  | Success: Appointment QUEM090624 Booked Successfully;
+2024-02-14 04:59:56 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | QUEBEC Server Physician:
+QUEM090624: in the MORNING of 09/06/2424 Total Available Capacity: 4 out of 5
+QUEM100624: in the MORNING of 10/06/2424 Total Available Capacity: 5 out of 5
+
+___________________________
+;
+2024-02-14 05:01:03 pm MTLP1987 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Booked Successfully;
+2024-02-14 07:38:20 pm  Server is Ready...
+2024-02-14 07:38:20 pm  UDP Server Started at port 2222
+2024-02-14 09:22:32 pm  Server is Ready...
+2024-02-14 09:22:32 pm  UDP Server Started at port 2222
+2024-02-14 09:22:50 pm MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: QUEM080624 appointmentType: Surgeon  | Success: Appointment QUEM080624 Booked Successfully;
+2024-02-14 09:22:56 pm MTLP1212 |  RMI cancelAppointment  |  appointmentID: QUEM080624 appointmentType: Surgeon  | Success: Appointment QUEM080624 Canceled for MTLP1212
+2024-02-14 09:22:56 pm MTLP1212 |  UDP reply sent cancelAppointment  |  appointmentID: QUEM080624 appointmentType: Surgeon  | Success: Appointment QUEM080624 Canceled for MTLP1212;
+2024-02-14 09:23:02 pm MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: QUEM080624 appointmentType: Surgeon  | Success: Appointment QUEM080624 Booked Successfully;
+2024-02-14 09:30:03 pm MTLP1212 |  RMI cancelAppointment  |  appointmentID: QUEM080624 appointmentType: Surgeon  | Success: Appointment QUEM080624 Canceled for MTLP1212
+2024-02-14 09:30:03 pm MTLP1212 |  UDP reply sent cancelAppointment  |  appointmentID: QUEM080624 appointmentType: Surgeon  | Success: Appointment QUEM080624 Canceled for MTLP1212;
+2024-02-14 09:39:53 pm MTLP1234 |  UDP reply sent bookAppointment  |  appointmentID: QUEM100624 appointmentType: Physician  | Success: Appointment QUEM100624 Booked Successfully;
+2024-02-14 09:40:05 pm MTLP1234 |  UDP reply sent bookAppointment  |  appointmentID: QUEM090624 appointmentType: Physician  | Success: Appointment QUEM090624 Booked Successfully;
+2024-02-14 09:40:15 pm MTLP1234 |  UDP reply sent bookAppointment  |  appointmentID: QUEM080624 appointmentType: Surgeon  | Success: Appointment QUEM080624 Booked Successfully;
+2024-02-14 09:44:35 pm  Server is Ready...
+2024-02-14 09:44:35 pm  UDP Server Started at port 2222
+2024-02-14 09:45:09 pm MTLP1256 |  UDP reply sent bookAppointment  |  appointmentID: QUEM090624 appointmentType: Physician  | Success: Appointment QUEM090624 Booked Successfully;
+2024-02-14 09:46:03 pm null |  RMI removeAppointment  | appointmentID: QUEM090624 appointmentType: Surgeon Failed: Appointment QUEM090624 Does Not Exist
+2024-02-14 09:49:06 pm MTLP1256 |  UDP request sent removeAppointment  |  AppointmentID: QUEM090624 AppointmentType: Physician  |  ... 
+2024-02-14 09:49:06 pm MTLP1256 |  UDP reply receivedremoveAppointment  |  appointmentID: QUEM090624 appointmentType: Physician  | Success: Appointment QUEM090624 Was Removed from MTLP1256 Schedule
+2024-02-14 09:49:06 pm null |  RMI removeAppointment  | appointmentID: QUEM090624 appointmentType: Physician Appointment Removed Successfully
+2024-02-14 09:49:31 pm QUEP1345 |  RMI getBookingSchedule  | null | Physician:
+QUEM100624 
+
+ 
+
+2024-02-19 09:55:26 pm  Server is Ready...
+2024-02-19 09:55:26 pm  UDP Server Started at port 2222
+2024-02-19 11:02:51 pm  Server is Ready...
+2024-02-19 11:02:51 pm  UDP Server Started at port 2222
+2024-03-05 07:16:20 pm  Server is Ready...
+2024-03-05 07:16:20 pm  UDP Server Started at port 2222

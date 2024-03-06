@@ -1,0 +1,469 @@
+2024-02-10 01:58:01 pm  Server is Up & Running
+2024-02-10 01:58:01 pm  UDP Server Started at port 3333
+2024-02-10 02:18:09 pm  UDP Server Started at port 3333
+2024-02-10 02:18:09 pm  Server is Up & Running
+2024-02-10 04:46:10 pm  Server is Up & Running
+2024-02-10 04:46:10 pm  UDP Server Started at port 3333
+2024-02-10 05:09:25 pm  UDP Server Started at port 3333
+2024-02-10 05:09:25 pm  Server is Ready...
+2024-02-10 05:20:37 pm  UDP Server Started at port 3333
+2024-02-10 05:20:37 pm  Server is Ready...
+2024-02-10 05:35:10 pm  Server is Ready...
+2024-02-10 05:35:10 pm  UDP Server Started at port 3333
+2024-02-10 11:23:01 pm  Server is Ready...
+2024-02-10 11:23:01 pm  UDP Server Started at port 3333
+2024-02-10 11:33:41 pm null |  UDP reply sent listEventAvailability  |  appointmentID: null appointmentType: MTLA2345  | 
+2024-02-10 11:39:02 pm null |  UDP reply sent listEventAvailability  |  appointmentID: null appointmentType: MTLA2345  | 
+2024-02-10 11:50:07 pm  Server is Ready...
+2024-02-10 11:50:07 pm  UDP Server Started at port 3333
+2024-02-10 11:53:46 pm  UDP Server Started at port 3333
+2024-02-10 11:53:46 pm  Server is Ready...
+2024-02-10 11:55:20 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: MTLA2345  | 
+2024-02-11 03:36:30 pm  Server is Ready...
+2024-02-11 03:36:30 pm  UDP Server Started at port 3333
+2024-02-11 07:01:00 pm  UDP Server Started at port 3333
+2024-02-11 07:01:00 pm  Server is Ready...
+2024-02-11 07:03:39 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEE101124 appointmentType: Surgeon  | 
+2024-02-11 07:13:51 pm SHEP2345 |  RMI getBookingSchedule  | null | Physician:
+SHEE120924 ||
+=====================================
+
+2024-02-11 07:14:06 pm SHEP2345 |  RMI getBookingSchedule  | null | Physician:
+SHEE120924 ||
+=====================================
+
+2024-02-11 07:14:58 pm SHEP2345 |  RMI cancelAppointment  |  AppointmentID: QUEA101024 AppointmentType: Physician  | Failed: You SHEP2345 Are Not Registered in QUEA101024
+2024-02-11 07:22:57 pm MTLP2312 |  UDP reply sent bookAppointment  |  appointmentID: SHEE101124 appointmentType: Surgeon  | 
+2024-02-11 07:24:28 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: MTLA2345  | 
+2024-02-11 10:04:47 pm  Server is Ready...
+2024-02-11 10:04:47 pm  UDP Server Started at port 3333
+2024-02-11 10:06:38 pm  Server is Ready...
+2024-02-11 10:06:38 pm  UDP Server Started at port 3333
+2024-02-11 10:25:58 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEE120924 appointmentType: Physician  | 
+2024-02-11 10:30:07 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEE101124 appointmentType: Surgeon  | 
+2024-02-12 12:34:23 am  UDP Server Started at port 3333
+2024-02-12 12:34:23 am  Server is Ready...
+2024-02-12 12:45:29 am  Server is Ready...
+2024-02-12 12:45:29 am  UDP Server Started at port 3333
+2024-02-12 12:46:00 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEA240824 appointmentType: Physician  | 
+2024-02-12 12:46:19 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEE101124 appointmentType: Surgeon  | 
+2024-02-12 12:49:59 am  Server is Ready...
+2024-02-12 12:49:59 am  UDP Server Started at port 3333
+2024-02-12 12:50:25 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEE101124 appointmentType: Surgeon  | 
+2024-02-12 12:56:37 am  Server is Ready...
+2024-02-12 12:56:37 am  UDP Server Started at port 3333
+2024-02-12 12:57:06 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEE101124 appointmentType: Surgeon  | 
+2024-02-12 01:00:25 am  UDP Server Started at port 3333
+2024-02-12 01:00:25 am  Server is Ready...
+2024-02-12 01:00:49 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEE101124 appointmentType: Surgeon  | 
+2024-02-12 01:05:23 am  Server is Ready...
+2024-02-12 01:05:23 am  UDP Server Started at port 3333
+2024-02-12 01:12:14 am  UDP Server Started at port 3333
+2024-02-12 01:12:14 am  Server is Ready...
+2024-02-12 01:13:57 am  UDP Server Started at port 3333
+2024-02-12 01:13:57 am  Server is Ready...
+2024-02-12 01:16:33 am  Server is Ready...
+2024-02-12 01:16:33 am  UDP Server Started at port 3333
+2024-02-12 01:18:06 am  UDP Server Started at port 3333
+2024-02-12 01:18:06 am  Server is Ready...
+2024-02-12 01:21:31 am  UDP Server Started at port 3333
+2024-02-12 01:21:31 am  Server is Ready...
+2024-02-12 01:23:40 am  Server is Ready...
+2024-02-12 01:23:40 am  UDP Server Started at port 3333
+2024-02-12 01:24:06 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEE101124 appointmentType: Dental  | 
+2024-02-12 01:25:52 am  Server is Ready...
+2024-02-12 01:25:52 am  UDP Server Started at port 3333
+2024-02-12 01:26:19 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEE101124 appointmentType: Dental  | 
+2024-02-12 01:35:38 am  Server is Ready...
+2024-02-12 01:35:38 am  UDP Server Started at port 3333
+2024-02-12 01:36:06 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEE101124 appointmentType: Dental  | 
+2024-02-12 01:40:28 am  Server is Ready...
+2024-02-12 01:40:28 am  UDP Server Started at port 3333
+2024-02-12 02:03:11 am  UDP Server Started at port 3333
+2024-02-12 02:03:11 am  Server is Ready...
+2024-02-12 02:04:36 am  UDP Server Started at port 3333
+2024-02-12 02:04:36 am  Server is Ready...
+2024-02-12 02:12:01 am  Server is Ready...
+2024-02-12 02:12:01 am  UDP Server Started at port 3333
+2024-02-12 02:47:47 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEE101024 appointmentType: Dental  | Failed: An error occurred while processing the appointment booking.;
+2024-02-12 02:50:38 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEE120924 appointmentType: Physician  | Success: Appointment SHEE120924 Booked Successfully;
+2024-02-12 02:50:55 am MTLP2345 |  RMI cancelAppointment  |  AppointmentID: SHEE120924 AppointmentType: Physician  | Success: Appointment SHEE120924 Canceled for MTLP2345
+2024-02-12 02:50:55 am MTLP2345 |  UDP reply sent cancelAppointment  |  appointmentID: SHEE120924 appointmentType: Physician  | Success: Appointment SHEE120924 Canceled for MTLP2345;
+2024-02-12 03:46:51 am  Server is Ready...
+2024-02-12 03:46:51 am  UDP Server Started at port 3333
+2024-02-12 03:49:16 am  UDP Server Started at port 3333
+2024-02-12 03:49:16 am  Server is Ready...
+2024-02-12 03:49:48 am MTLP1111 |  UDP reply sent bookAppointment  |  appointmentID: SHEE120924 appointmentType: Physician  | Success: Appointment SHEE120924 Booked Successfully;
+2024-02-12 11:42:44 am  Server is Ready...
+2024-02-12 11:42:44 am  UDP Server Started at port 3333
+2024-02-12 11:46:28 am  Server is Ready...
+2024-02-12 11:46:28 am  UDP Server Started at port 3333
+2024-02-12 11:57:17 am  UDP Server Started at port 3333
+2024-02-12 11:57:17 am  Server is Ready...
+2024-02-12 11:57:45 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEE120924 appointmentType: Physician  | Success: Appointment SHEE120924 Booked Successfully;
+2024-02-12 12:00:00 pm MTLP2345 |  RMI cancelAppointment  |  AppointmentID: SHEE120924 AppointmentType: Physician  | Success: Appointment SHEE120924 Canceled for MTLP2345
+2024-02-12 12:00:00 pm MTLP2345 |  UDP reply sent cancelAppointment  |  appointmentID: SHEE120924 appointmentType: Physician  | Success: Appointment SHEE120924 Canceled for MTLP2345;
+2024-02-12 12:04:24 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEA240824 appointmentType: Physician  | Success: Appointment SHEA240824 Booked Successfully;
+2024-02-12 12:05:04 pm MTLP2345 |  RMI cancelAppointment  |  AppointmentID: SHEA240824 AppointmentType: Physician  | Success: Appointment SHEA240824 Canceled for MTLP2345
+2024-02-12 12:05:04 pm MTLP2345 |  UDP reply sent cancelAppointment  |  appointmentID: SHEA240824 appointmentType: Physician  | Success: Appointment SHEA240824 Canceled for MTLP2345;
+2024-02-12 01:08:20 pm  Server is Ready...
+2024-02-12 01:08:20 pm  UDP Server Started at port 3333
+2024-02-12 01:09:18 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEA240824 appointmentType: Physician  | Success: Appointment SHEA240824 Booked Successfully;
+2024-02-12 01:09:30 pm MTLP2345 |  RMI cancelAppointment  |  AppointmentID: SHEA240824 AppointmentType: Physician  | Success: Appointment SHEA240824 Canceled for MTLP2345
+2024-02-12 01:09:30 pm MTLP2345 |  UDP reply sent cancelAppointment  |  appointmentID: SHEA240824 appointmentType: Physician  | Success: Appointment SHEA240824 Canceled for MTLP2345;
+2024-02-12 01:09:41 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEA240824 appointmentType: Physician  | Failed: Appointment SHEA240824 Already Booked;
+2024-02-12 01:35:22 pm  UDP Server Started at port 3333
+2024-02-12 01:35:22 pm  Server is Ready...
+2024-02-12 01:59:26 pm  UDP Server Started at port 3333
+2024-02-12 01:59:26 pm  Server is Ready...
+2024-02-12 04:21:51 pm  UDP Server Started at port 3333
+2024-02-12 04:21:51 pm  Server is Ready...
+2024-02-12 04:24:12 pm  Server is Ready...
+2024-02-12 04:24:12 pm  UDP Server Started at port 3333
+2024-02-12 05:14:26 pm  Server is Ready...
+2024-02-12 05:14:26 pm  UDP Server Started at port 3333
+2024-02-12 05:33:26 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEA240824 appointmentType: Physician  | Success: Appointment SHEA240824 Booked Successfully;
+2024-02-12 05:33:33 pm MTLP2345 |  RMI cancelAppointment  |  AppointmentID: SHEA240824 AppointmentType: Physician  | Success: Appointment SHEA240824 Canceled for MTLP2345
+2024-02-12 05:33:33 pm MTLP2345 |  UDP reply sent cancelAppointment  |  appointmentID: SHEA240824 appointmentType: Physician  | Success: Appointment SHEA240824 Canceled for MTLP2345;
+2024-02-12 05:35:28 pm  Server is Ready...
+2024-02-12 05:35:28 pm  UDP Server Started at port 3333
+2024-02-12 05:35:43 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEA240824 appointmentType: Physician  | Success: Appointment SHEA240824 Booked Successfully;
+2024-02-12 05:56:28 pm  Server is Ready...
+2024-02-12 05:56:28 pm  UDP Server Started at port 3333
+2024-02-12 05:57:33 pm  Server is Ready...
+2024-02-12 05:57:33 pm  UDP Server Started at port 3333
+2024-02-12 06:02:37 pm  UDP Server Started at port 3333
+2024-02-12 06:02:37 pm  Server is Ready...
+2024-02-12 06:16:17 pm  UDP Server Started at port 3333
+2024-02-12 06:16:17 pm  Server is Ready...
+2024-02-12 06:19:08 pm  Server is Ready...
+2024-02-12 06:19:08 pm  UDP Server Started at port 3333
+2024-02-12 06:21:24 pm  UDP Server Started at port 3333
+2024-02-12 06:21:24 pm  Server is Ready...
+2024-02-12 06:25:58 pm  Server is Ready...
+2024-02-12 06:25:58 pm  UDP Server Started at port 3333
+2024-02-12 06:30:09 pm  UDP Server Started at port 3333
+2024-02-12 06:30:09 pm  Server is Ready...
+2024-02-12 06:34:51 pm  Server is Ready...
+2024-02-12 06:34:51 pm  UDP Server Started at port 3333
+2024-02-12 06:36:21 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | SHERBROOK Server Physician:
+SHEE120924: in the EVENING of 12/09/2424 Total Available Capacity: 1out of 1 || SHEA240824: in the AFTERNOON of 24/08/2424 Total Available Capacity: 2out of 2 || 
+****************************
+;
+2024-02-12 06:49:51 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | SHERBROOK Server Physician:
+SHEE120924: in the EVENING of 12/09/2424 Total Available Capacity: 1out of 1 || SHEA240824: in the AFTERNOON of 24/08/2424 Total Available Capacity: 2out of 2 || 
+****************************
+;
+2024-02-12 06:51:40 pm  Server is Ready...
+2024-02-12 06:51:40 pm  UDP Server Started at port 3333
+2024-02-12 06:51:48 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | SHERBROOK Server Physician:
+SHEE120924: in the EVENING of 12/09/2424 Total Available Capacity: 1out of 1 
+ SHEA240824: in the AFTERNOON of 24/08/2424 Total Available Capacity: 2out of 2 
+ 
+___________________________
+;
+2024-02-12 06:53:09 pm  Server is Ready...
+2024-02-12 06:53:09 pm  UDP Server Started at port 3333
+2024-02-12 06:53:21 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | SHERBROOK Server Physician:
+SHEE120924: in the EVENING of 12/09/2424 Total Available Capacity: 1out of 1
+SHEA240824: in the AFTERNOON of 24/08/2424 Total Available Capacity: 2out of 2
+
+___________________________
+;
+2024-02-12 06:54:12 pm  UDP Server Started at port 3333
+2024-02-12 06:54:12 pm  Server is Ready...
+2024-02-12 06:54:25 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | SHERBROOK Server Physician:
+SHEE120924: in the EVENING of 12/09/2424 Total Available Capacity: 1 out of 1
+SHEA240824: in the AFTERNOON of 24/08/2424 Total Available Capacity: 2 out of 2
+
+___________________________
+;
+2024-02-12 06:55:11 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEE120924 appointmentType: Physician  | Success: Appointment SHEE120924 Booked Successfully;
+2024-02-12 07:00:50 pm  Server is Ready...
+2024-02-12 07:00:50 pm  UDP Server Started at port 3333
+2024-02-12 07:02:45 pm  UDP Server Started at port 3333
+2024-02-12 07:02:45 pm  Server is Ready...
+2024-02-12 07:03:12 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEE120924 appointmentType: Physician  | Success: Appointment SHEE120924 Booked Successfully;
+2024-02-12 07:05:56 pm MTLP2345 |  RMI cancelAppointment  |  AppointmentID: SHEE120924 AppointmentType: Physician  | Success: Appointment SHEE120924 Canceled for MTLP2345
+2024-02-12 07:05:56 pm MTLP2345 |  UDP reply sent cancelAppointment  |  appointmentID: SHEE120924 appointmentType: Physician  | Success: Appointment SHEE120924 Canceled for MTLP2345;
+2024-02-12 07:07:20 pm  UDP Server Started at port 3333
+2024-02-12 07:07:20 pm  Server is Ready...
+2024-02-12 07:12:49 pm  Server is Ready...
+2024-02-12 07:12:49 pm  UDP Server Started at port 3333
+2024-02-12 07:13:33 pm MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEE080624 appointmentType: Physician  | Success: Appointment SHEE080624 Booked Successfully;
+2024-02-12 07:14:50 pm  Server is Ready...
+2024-02-12 07:14:50 pm  UDP Server Started at port 3333
+2024-02-12 07:20:22 pm  UDP Server Started at port 3333
+2024-02-12 07:20:22 pm  Server is Ready...
+2024-02-12 07:23:06 pm  UDP Server Started at port 3333
+2024-02-12 07:23:06 pm  Server is Ready...
+2024-02-12 07:24:59 pm  Server is Ready...
+2024-02-12 07:24:59 pm  UDP Server Started at port 3333
+2024-02-12 07:25:32 pm  UDP Server Started at port 3333
+2024-02-12 07:25:32 pm  Server is Ready...
+2024-02-12 07:27:12 pm  Server is Ready...
+2024-02-12 07:27:12 pm  UDP Server Started at port 3333
+2024-02-12 07:28:36 pm  UDP Server Started at port 3333
+2024-02-12 07:28:36 pm  Server is Ready...
+2024-02-13 01:07:36 am  UDP Server Started at port 3333
+2024-02-13 01:07:36 am  Server is Ready...
+2024-02-13 01:07:55 am  UDP Server Started at port 3333
+2024-02-13 01:07:55 am  Server is Ready...
+2024-02-13 01:27:11 am null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | SHERBROOK Server Physician:
+SHEE080624: in the EVENING of 08/06/2424 Total Available Capacity: 1 out of 1
+SHEA070624: in the AFTERNOON of 07/06/2424 Total Available Capacity: 2 out of 2
+
+___________________________
+;
+2024-02-13 01:35:15 am  Server is Ready...
+2024-02-13 01:35:15 am  UDP Server Started at port 3333
+2024-02-13 02:13:31 am  Server is Ready...
+2024-02-13 02:13:31 am  UDP Server Started at port 3333
+2024-02-13 02:20:49 am  Server is Ready...
+2024-02-13 02:20:49 am  UDP Server Started at port 3333
+2024-02-13 02:21:47 am  Server is Ready...
+2024-02-13 02:21:47 am  UDP Server Started at port 3333
+2024-02-13 02:26:14 am  Server is Ready...
+2024-02-13 02:26:14 am  UDP Server Started at port 3333
+2024-02-13 02:36:27 am  Server is Ready...
+2024-02-13 02:36:27 am  UDP Server Started at port 3333
+2024-02-13 02:37:19 am  Server is Ready...
+2024-02-13 02:37:19 am  UDP Server Started at port 3333
+2024-02-13 02:37:51 am  Server is Ready...
+2024-02-13 02:37:51 am  UDP Server Started at port 3333
+2024-02-13 02:44:09 am  Server is Ready...
+2024-02-13 02:44:09 am  UDP Server Started at port 3333
+2024-02-13 03:26:45 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEA070624 appointmentType: Physician  | Success: Appointment SHEA070624 Booked Successfully;
+2024-02-13 03:27:53 am  Server is Ready...
+2024-02-13 03:27:53 am  UDP Server Started at port 3333
+2024-02-13 03:30:29 am  Server is Ready...
+2024-02-13 03:30:29 am  UDP Server Started at port 3333
+2024-02-13 03:32:02 am  Server is Ready...
+2024-02-13 03:32:02 am  UDP Server Started at port 3333
+2024-02-13 03:33:58 am  Server is Ready...
+2024-02-13 03:33:58 am  UDP Server Started at port 3333
+2024-02-13 03:36:41 am MTLP1080 |  UDP reply sent bookAppointment  |  appointmentID: SHEM090624 appointmentType: Surgeon  | Success: Appointment SHEM090624 Booked Successfully;
+2024-02-13 03:36:50 am MTLP1080 |  UDP reply sent bookAppointment  |  appointmentID: SHEA050624 appointmentType: Dental  | Success: Appointment SHEA050624 Booked Successfully;
+2024-02-13 03:37:49 am  Server is Ready...
+2024-02-13 03:37:49 am  UDP Server Started at port 3333
+2024-02-13 03:38:29 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEA070624 appointmentType: Physician  | Success: Appointment SHEA070624 Booked Successfully;
+2024-02-13 03:38:39 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEA050624 appointmentType: Dental  | Success: Appointment SHEA050624 Booked Successfully;
+2024-02-13 03:38:49 am MTLP2345 |  UDP reply sent bookAppointment  |  appointmentID: SHEM090624 appointmentType: Surgeon  | Success: Appointment SHEM090624 Booked Successfully;
+2024-02-13 03:40:01 pm  Server is Ready...
+2024-02-13 03:40:01 pm  UDP Server Started at port 3333
+2024-02-13 03:46:56 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | SHERBROOK Server Physician:
+SHEE080624: in the EVENING of 08/06/2424 Total Available Capacity: 1 out of 1
+SHEA070624: in the AFTERNOON of 07/06/2424 Total Available Capacity: 2 out of 2
+
+___________________________
+;
+2024-02-13 03:49:59 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | SHERBROOK Server Physician:
+SHEE080624: in the EVENING of 08/06/2424 Total Available Capacity: 1 out of 1
+SHEA070624: in the AFTERNOON of 07/06/2424 Total Available Capacity: 2 out of 2
+
+___________________________
+;
+2024-02-13 03:51:39 pm  Server is Ready...
+2024-02-13 03:51:39 pm  UDP Server Started at port 3333
+2024-02-13 04:37:52 pm  Server is Ready...
+2024-02-13 04:37:52 pm  UDP Server Started at port 3333
+2024-02-13 04:41:13 pm  Server is Ready...
+2024-02-13 04:41:13 pm  UDP Server Started at port 3333
+2024-02-13 04:42:51 pm  Server is Ready...
+2024-02-13 04:42:51 pm  UDP Server Started at port 3333
+2024-02-13 04:43:57 pm  Server is Ready...
+2024-02-13 04:43:57 pm  UDP Server Started at port 3333
+2024-02-13 04:45:49 pm  Server is Ready...
+2024-02-13 04:45:49 pm  UDP Server Started at port 3333
+2024-02-13 04:46:47 pm  Server is Ready...
+2024-02-13 04:46:47 pm  UDP Server Started at port 3333
+2024-02-13 04:47:51 pm  Server is Ready...
+2024-02-13 04:47:51 pm  UDP Server Started at port 3333
+2024-02-13 11:12:35 pm  Server is Ready...
+2024-02-13 11:12:35 pm  UDP Server Started at port 3333
+2024-02-13 11:18:00 pm  Server is Ready...
+2024-02-13 11:18:00 pm  UDP Server Started at port 3333
+2024-02-13 11:18:14 pm  Server is Ready...
+2024-02-13 11:18:14 pm  UDP Server Started at port 3333
+2024-02-13 11:18:32 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | SHERBROOK Server Physician:
+SHEE080624: in the EVENING of 08/06/2424 Total Available Capacity: 1 out of 1
+SHEA070624: in the AFTERNOON of 07/06/2424 Total Available Capacity: 2 out of 2
+
+___________________________
+;
+2024-02-13 11:20:01 pm  Server is Ready...
+2024-02-13 11:20:01 pm  UDP Server Started at port 3333
+2024-02-13 11:20:33 pm MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEE080624 appointmentType: Physician  | Success: Appointment SHEE080624 Booked Successfully;
+2024-02-13 11:21:43 pm  Server is Ready...
+2024-02-13 11:21:43 pm  UDP Server Started at port 3333
+2024-02-13 11:22:39 pm MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEE080624 appointmentType: Physician  | Success: Appointment SHEE080624 Booked Successfully;
+2024-02-13 11:23:08 pm  Server is Ready...
+2024-02-13 11:23:08 pm  UDP Server Started at port 3333
+2024-02-13 11:23:28 pm MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEE080624 appointmentType: Physician  | Success: Appointment SHEE080624 Booked Successfully;
+2024-02-13 11:24:08 pm  Server is Ready...
+2024-02-13 11:24:08 pm  UDP Server Started at port 3333
+2024-02-13 11:24:30 pm MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEE080624 appointmentType: Physician  | Success: Appointment SHEE080624 Booked Successfully;
+2024-02-13 11:27:04 pm  Server is Ready...
+2024-02-13 11:27:04 pm  UDP Server Started at port 3333
+2024-02-13 11:27:39 pm MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEA070624 appointmentType: Physician  | Success: Appointment SHEA070624 Booked Successfully;
+2024-02-13 11:32:21 pm  Server is Ready...
+2024-02-13 11:32:21 pm  UDP Server Started at port 3333
+2024-02-13 11:35:56 pm  Server is Ready...
+2024-02-13 11:35:56 pm  UDP Server Started at port 3333
+2024-02-13 11:48:39 pm  Server is Ready...
+2024-02-13 11:48:39 pm  UDP Server Started at port 3333
+2024-02-13 11:48:43 pm  Server is Ready...
+2024-02-13 11:48:43 pm  UDP Server Started at port 3333
+2024-02-13 11:48:57 pm  Server is Ready...
+2024-02-13 11:48:57 pm  UDP Server Started at port 3333
+2024-02-13 11:49:26 pm MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEE080624 appointmentType: Physician  | Success: Appointment SHEE080624 Booked Successfully;
+2024-02-13 11:51:51 pm MTLP1212 |  RMI cancelAppointment  |  AppointmentID: SHEE080624 AppointmentType: Physician  | Success: Appointment SHEE080624 Canceled for MTLP1212
+2024-02-13 11:51:51 pm MTLP1212 |  UDP reply sent cancelAppointment  |  appointmentID: SHEE080624 appointmentType: Physician  | Success: Appointment SHEE080624 Canceled for MTLP1212;
+2024-02-14 12:17:49 am  Server is Ready...
+2024-02-14 12:17:49 am  UDP Server Started at port 3333
+2024-02-14 12:18:14 am MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEA070624 appointmentType: Physician  | Success: Appointment SHEA070624 Booked Successfully;
+2024-02-14 12:20:58 am  Server is Ready...
+2024-02-14 12:20:58 am  UDP Server Started at port 3333
+2024-02-14 12:21:18 am MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEA070624 appointmentType: Physician  | Success: Appointment SHEA070624 Booked Successfully;
+2024-02-14 12:21:46 am  Server is Ready...
+2024-02-14 12:21:46 am  UDP Server Started at port 3333
+2024-02-14 12:22:08 am MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEA070624 appointmentType: Physician  | Success: Appointment SHEA070624 Booked Successfully;
+2024-02-14 12:31:12 am  Server is Ready...
+2024-02-14 12:31:12 am  UDP Server Started at port 3333
+2024-02-14 12:34:13 am  Server is Ready...
+2024-02-14 12:34:13 am  UDP Server Started at port 3333
+2024-02-14 12:42:58 am  Server is Ready...
+2024-02-14 12:42:58 am  UDP Server Started at port 3333
+2024-02-14 01:20:59 am  Server is Ready...
+2024-02-14 01:20:59 am  UDP Server Started at port 3333
+2024-02-14 01:22:37 am MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEE080624 appointmentType: Physician  | Success: Appointment SHEE080624 Booked Successfully;
+2024-02-14 01:22:47 am MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEA050624 appointmentType: Dental  | Success: Appointment SHEA050624 Booked Successfully;
+2024-02-14 01:29:58 am MTLP1212 |  RMI cancelAppointment  |  AppointmentID: SHEA050624 AppointmentType: Dental  | Success: Appointment SHEA050624 Canceled for MTLP1212
+2024-02-14 01:29:58 am MTLP1212 |  UDP reply sent cancelAppointment  |  appointmentID: SHEA050624 appointmentType: Dental  | Success: Appointment SHEA050624 Canceled for MTLP1212;
+2024-02-14 01:30:26 am MTLP1212 |  RMI cancelAppointment  |  AppointmentID: SHEE080624 AppointmentType: Physician  | Success: Appointment SHEE080624 Canceled for MTLP1212
+2024-02-14 01:30:26 am MTLP1212 |  UDP reply sent cancelAppointment  |  appointmentID: SHEE080624 appointmentType: Physician  | Success: Appointment SHEE080624 Canceled for MTLP1212;
+2024-02-14 01:31:29 am MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEA070624 appointmentType: Physician  | Success: Appointment SHEA070624 Booked Successfully;
+2024-02-14 01:32:07 am MTLP1212 |  RMI cancelAppointment  |  AppointmentID: SHEA070624 AppointmentType: Physician  | Success: Appointment SHEA070624 Canceled for MTLP1212
+2024-02-14 01:32:07 am MTLP1212 |  UDP reply sent cancelAppointment  |  appointmentID: SHEA070624 appointmentType: Physician  | Success: Appointment SHEA070624 Canceled for MTLP1212;
+2024-02-14 01:32:14 am MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEA070624 appointmentType: Physician  | Failed: Appointment SHEA070624 Already Booked;
+2024-02-14 01:32:39 am MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEA070624 appointmentType: Physician  | Failed: Appointment SHEA070624 Already Booked;
+2024-02-14 01:34:47 am MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEE080624 appointmentType: Physician  | Failed: Appointment SHEE080624 Already Booked;
+2024-02-14 01:35:55 am MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEA050624 appointmentType: Dental  | Failed: Appointment SHEA050624 Already Booked;
+2024-02-14 02:03:54 am  Server is Ready...
+2024-02-14 02:03:54 am  UDP Server Started at port 3333
+2024-02-14 02:05:32 am MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEA070624 appointmentType: Physician  | Success: Appointment SHEA070624 Booked Successfully;
+2024-02-14 02:05:39 am MTLP1212 |  UDP reply sent cancelEvent  |  appointmentID: SHEA070624 appointmentType: Physician  | 
+2024-02-14 02:06:24 am MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEA070624 appointmentType: Physician  | Failed: Appointment SHEA070624 Already Booked;
+2024-02-14 02:06:36 am MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEA070624 appointmentType: Physician  | Failed: Appointment SHEA070624 Already Booked;
+2024-02-14 02:06:51 am  Server is Ready...
+2024-02-14 02:06:51 am  UDP Server Started at port 3333
+2024-02-14 02:07:09 am MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEA070624 appointmentType: Physician  | Success: Appointment SHEA070624 Booked Successfully;
+2024-02-14 02:07:15 am MTLP1212 |  UDP reply sent cancelEvent  |  appointmentID: SHEA070624 appointmentType: Physician  | 
+2024-02-14 02:07:21 am MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEA070624 appointmentType: Physician  | Failed: Appointment SHEA070624 Already Booked;
+2024-02-14 02:13:45 am  Server is Ready...
+2024-02-14 02:13:45 am  UDP Server Started at port 3333
+2024-02-14 02:14:38 am MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEA070624 appointmentType: Physician  | Success: Appointment SHEA070624 Booked Successfully;
+2024-02-14 02:14:46 am MTLP1212 |  UDP reply sent cancelEvent  |  appointmentID: SHEA070624 appointmentType: Physician  | 
+2024-02-14 02:14:52 am MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEA070624 appointmentType: Physician  | Failed: Appointment SHEA070624 Already Booked;
+2024-02-14 02:22:48 am  Server is Ready...
+2024-02-14 02:22:48 am  UDP Server Started at port 3333
+2024-02-14 02:23:07 am MTLP1234 |  UDP reply sent bookAppointment  |  appointmentID: SHEE080624 appointmentType: Physician  | Success: Appointment SHEE080624 Booked Successfully;
+2024-02-14 02:23:16 am MTLP1234 |  UDP reply sent cancelEvent  |  appointmentID: SHEE080624 appointmentType: Physician  | 
+2024-02-14 02:23:34 am MTLP1234 |  UDP reply sent bookAppointment  |  appointmentID: SHEE080624 appointmentType: Physician  | Failed: Appointment SHEE080624 is Full;
+2024-02-14 02:23:59 am  Server is Ready...
+2024-02-14 02:23:59 am  UDP Server Started at port 3333
+2024-02-14 02:26:28 am  Server is Ready...
+2024-02-14 02:26:28 am  UDP Server Started at port 3333
+2024-02-14 02:28:05 am  Server is Ready...
+2024-02-14 02:28:05 am  UDP Server Started at port 3333
+2024-02-14 02:49:52 am  Server is Ready...
+2024-02-14 02:49:52 am  UDP Server Started at port 3333
+2024-02-14 02:52:24 am  Server is Ready...
+2024-02-14 02:52:24 am  UDP Server Started at port 3333
+2024-02-14 02:53:04 am MTLP0808 |  UDP reply sent bookAppointment  |  appointmentID: SHEE080624 appointmentType: Physician  | Success: Appointment SHEE080624 Booked Successfully;
+2024-02-14 02:53:09 am MTLP0808 |  RMI cancelEvent  |  appointmentID: SHEE080624 appointmentType: Physician  | Success: Event SHEE080624 Canceled for MTLP0808
+2024-02-14 02:53:09 am MTLP0808 |  UDP reply sent cancelAppointment  |  appointmentID: SHEE080624 appointmentType: Physician  | Success: Event SHEE080624 Canceled for MTLP0808;
+2024-02-14 02:53:23 am MTLP0808 |  UDP reply sent bookAppointment  |  appointmentID: SHEE080624 appointmentType: Physician  | Success: Appointment SHEE080624 Booked Successfully;
+2024-02-14 01:35:40 pm  Server is Ready...
+2024-02-14 01:35:40 pm  UDP Server Started at port 3333
+2024-02-14 01:36:02 pm  Server is Ready...
+2024-02-14 01:36:02 pm  UDP Server Started at port 3333
+2024-02-14 01:49:42 pm  Server is Ready...
+2024-02-14 01:49:42 pm  UDP Server Started at port 3333
+2024-02-14 01:55:24 pm MTLP3443 |  UDP reply sent bookAppointment  |  appointmentID: SHEE080624 appointmentType: Physician  | Success: Appointment SHEE080624 Booked Successfully;
+2024-02-14 01:55:37 pm MTLP3443 |  RMI cancelEvent  |  appointmentID: SHEE080624 appointmentType: Physician  | Success: Event SHEE080624 Canceled for MTLP3443
+2024-02-14 01:55:37 pm MTLP3443 |  UDP reply sent cancelAppointment  |  appointmentID: SHEE080624 appointmentType: Physician  | Success: Event SHEE080624 Canceled for MTLP3443;
+2024-02-14 01:55:49 pm MTLP3443 |  UDP reply sent bookAppointment  |  appointmentID: SHEE080624 appointmentType: Physician  | Success: Appointment SHEE080624 Booked Successfully;
+2024-02-14 02:04:17 pm  Server is Ready...
+2024-02-14 02:04:17 pm  UDP Server Started at port 3333
+2024-02-14 02:04:45 pm MTLP1616 |  UDP reply sent bookAppointment  |  appointmentID: SHEA070624 appointmentType: Physician  | Success: Appointment SHEA070624 Booked Successfully;
+2024-02-14 02:05:12 pm  Server is Ready...
+2024-02-14 02:05:12 pm  UDP Server Started at port 3333
+2024-02-14 02:08:45 pm  Server is Ready...
+2024-02-14 02:08:45 pm  UDP Server Started at port 3333
+2024-02-14 02:12:28 pm  Server is Ready...
+2024-02-14 02:12:28 pm  UDP Server Started at port 3333
+2024-02-14 02:21:01 pm  Server is Ready...
+2024-02-14 02:21:01 pm  UDP Server Started at port 3333
+2024-02-14 02:24:00 pm  Server is Ready...
+2024-02-14 02:24:00 pm  UDP Server Started at port 3333
+2024-02-14 02:27:54 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | SHERBROOK Server Physician:
+SHEE080624: in the EVENING of 08/06/2424 Total Available Capacity: 1 out of 1
+SHEA070624: in the AFTERNOON of 07/06/2424 Total Available Capacity: 2 out of 2
+
+___________________________
+;
+2024-02-14 02:32:35 pm  Server is Ready...
+2024-02-14 02:32:35 pm  UDP Server Started at port 3333
+2024-02-14 02:32:52 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | SHERBROOK Server Physician:
+SHEE080624: in the EVENING of 08/06/2424 Total Available Capacity: 1 out of 1
+SHEA070624: in the AFTERNOON of 07/06/2424 Total Available Capacity: 2 out of 2
+
+___________________________
+;
+2024-02-14 02:33:28 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | SHERBROOK Server Physician:
+SHEE080624: in the EVENING of 08/06/2424 Total Available Capacity: 1 out of 1
+SHEA070624: in the AFTERNOON of 07/06/2424 Total Available Capacity: 2 out of 2
+
+___________________________
+;
+2024-02-14 02:42:11 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | SHERBROOK Server Physician:
+SHEE080624: in the EVENING of 08/06/2424 Total Available Capacity: 1 out of 1
+SHEA070624: in the AFTERNOON of 07/06/2424 Total Available Capacity: 2 out of 2
+
+___________________________
+;
+2024-02-14 02:48:08 pm  Server is Ready...
+2024-02-14 02:48:08 pm  UDP Server Started at port 3333
+2024-02-14 04:07:38 pm  Server is Ready...
+2024-02-14 04:07:38 pm  UDP Server Started at port 3333
+2024-02-14 04:08:01 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | SHERBROOK Server Physician:
+SHEE080624: in the EVENING of 08/06/2424 Total Available Capacity: 1 out of 1
+SHEA070624: in the AFTERNOON of 07/06/2424 Total Available Capacity: 2 out of 2
+
+___________________________
+;
+2024-02-14 04:37:15 pm  Server is Ready...
+2024-02-14 04:37:15 pm  UDP Server Started at port 3333
+2024-02-14 04:59:55 pm null |  UDP reply sent listAppointmentAvailability  |  appointmentID: null appointmentType: Physician  | SHERBROOK Server Physician:
+SHEE080624: in the EVENING of 08/06/2424 Total Available Capacity: 1 out of 1
+SHEA070624: in the AFTERNOON of 07/06/2424 Total Available Capacity: 2 out of 2
+
+___________________________
+;
+2024-02-14 07:38:20 pm  Server is Ready...
+2024-02-14 07:38:20 pm  UDP Server Started at port 3333
+2024-02-14 09:22:32 pm  Server is Ready...
+2024-02-14 09:22:32 pm  UDP Server Started at port 3333
+2024-02-14 09:28:41 pm MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEM090624 appointmentType: Surgeon  | Success: Appointment SHEM090624 Booked Successfully;
+2024-02-14 09:28:53 pm MTLP1212 |  RMI cancelAppointment  |  appointmentID: SHEM090624 appointmentType: Surgeon  | Success: Appointment SHEM090624 Canceled for MTLP1212
+2024-02-14 09:28:53 pm MTLP1212 |  UDP reply sent cancelAppointment  |  appointmentID: SHEM090624 appointmentType: Surgeon  | Success: Appointment SHEM090624 Canceled for MTLP1212;
+2024-02-14 09:29:22 pm MTLP1212 |  UDP reply sent bookAppointment  |  appointmentID: SHEM090624 appointmentType: Surgeon  | Success: Appointment SHEM090624 Booked Successfully;
+2024-02-14 09:44:35 pm  Server is Ready...
+2024-02-14 09:44:35 pm  UDP Server Started at port 3333
+2024-02-19 09:55:26 pm  UDP Server Started at port 3333
+2024-02-19 09:55:26 pm  Server is Ready...
+2024-02-19 11:02:51 pm  Server is Ready...
+2024-02-19 11:02:51 pm  UDP Server Started at port 3333
+2024-03-05 07:16:20 pm  Server is Ready...
+2024-03-05 07:16:20 pm  UDP Server Started at port 3333

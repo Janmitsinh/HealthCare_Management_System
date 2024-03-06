@@ -1,0 +1,16 @@
+2024-02-19 11:15:24 pm  login attempt
+2024-02-19 11:15:24 pm  Admin Login successful
+2024-02-19 11:15:33 pm attempting to addAppointment
+2024-02-19 11:15:54 pm addAppointment | appointmentID: MTLM101024 appointmentType: Physician appointmentCapacity: 3  | Success:  Appointment added successfully
+2024-02-19 11:15:56 pm attempting to addAppointment
+2024-02-19 11:16:20 pm addAppointment | appointmentID: MTLA101024 appointmentType: Physician appointmentCapacity: 3  | Success:  Appointment added successfully
+2024-02-19 11:16:30 pm attempting to bookAppointment
+2024-02-19 11:16:46 pm bookAppointment | patientID: MTLP1312 appointmentID: MTLM101024 appointmentType: Physician  | Success: Appointment MTLM101024 Booked Successfully
+2024-02-19 11:17:14 pm attempting to removeAppointment
+2024-02-19 11:17:19 pm removeAppointment | appointmentID: MTLM101024 appointmentType: Physician  | Success: Appointment Removed Successfully
+2024-02-19 11:17:25 pm attempting to getBookingSchedule
+2024-02-19 11:17:46 pm getBookingSchedule | patientID: MTLP1312  | Physician:
+MTLA101024 
+
+ 
+

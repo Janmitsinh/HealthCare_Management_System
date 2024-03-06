@@ -1,0 +1,26 @@
+2024-02-14 04:53:19 pm  login attempt
+2024-02-14 04:53:19 pm  Patient Login successful
+2024-02-14 04:53:28 pm  booking to Appointment
+2024-02-14 04:53:28 pm bookAppointment  |  appointmentID: MTLA050324 appointmentType: Physician  | Success: Appointment MTLA050324 Booked Successfully
+2024-02-14 04:53:44 pm  attempting to cancelAppointment
+2024-02-14 04:53:44 pm cancelAppointment |  appointmentID: MTLA050324 appointmentType: Physician  | Success: Appointment MTLA050324 Canceled for MTLP1010
+2024-02-14 04:53:46 pm  trying to getAppointmentSchedule
+2024-02-14 04:53:46 pm  bookAppointment |  null  | Physician:
+
+ 
+
+2024-02-14 04:54:05 pm  booking to Appointment
+2024-02-14 04:54:06 pm bookAppointment  |  appointmentID: MTLA050324 appointmentType: Physician  | Success: Appointment MTLA050324 Booked Successfully
+2024-02-14 04:54:15 pm  booking to Appointment
+2024-02-14 04:54:15 pm bookAppointment  |  appointmentID: MTLE050324 appointmentType: Surgeon  | Success: Appointment MTLE050324 Booked Successfully
+2024-02-14 04:54:17 pm  trying to getAppointmentSchedule
+2024-02-14 04:54:17 pm  bookAppointment |  null  | Physician:
+MTLA050324 
+
+ 
+Surgeon:
+MTLE050324 
+
+ 
+
+2024-02-14 04:54:32 pm  trying to Logout
